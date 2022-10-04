@@ -1,3 +1,3 @@
-Employee class oluşturuldu.
-Case'de istenen eklentiler yapıldı. 
+Employee class oluşturuldu.\n
+Case'de istenen eklentiler yapıldı.\n
 örnek Employee oluşturuldu. 
